@@ -3,7 +3,7 @@
 
 void myPrintHelloMake(void) {
 
-  printf("Hello makefiles!\n");
+  printf("Hello makefiles! This git repo is a fork for the ropper's computing fundamentals course by Syceus1212\n");
 
   return;
 }
